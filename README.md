@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kambiaboy
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning about Data Analytics
+- 👀 I’m interested in Data Analytics and Full-Stack Development
+- 🌱 I’m currently learning about Data Analytics and Full-Stack Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kambiaboy92@gmail.com
 - 😄 Pronouns: He
